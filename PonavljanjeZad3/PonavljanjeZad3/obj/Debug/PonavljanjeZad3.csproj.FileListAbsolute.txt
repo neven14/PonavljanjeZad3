@@ -1,0 +1,7 @@
+C:\Users\Gordana\source\repos\PonavljanjeZad3\PonavljanjeZad3\bin\Debug\PonavljanjeZad3.exe.config
+C:\Users\Gordana\source\repos\PonavljanjeZad3\PonavljanjeZad3\bin\Debug\PonavljanjeZad3.exe
+C:\Users\Gordana\source\repos\PonavljanjeZad3\PonavljanjeZad3\bin\Debug\PonavljanjeZad3.pdb
+C:\Users\Gordana\source\repos\PonavljanjeZad3\PonavljanjeZad3\obj\Debug\PonavljanjeZad3.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\PonavljanjeZad3\PonavljanjeZad3\obj\Debug\PonavljanjeZad3.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\PonavljanjeZad3\PonavljanjeZad3\obj\Debug\PonavljanjeZad3.exe
+C:\Users\Gordana\source\repos\PonavljanjeZad3\PonavljanjeZad3\obj\Debug\PonavljanjeZad3.pdb
